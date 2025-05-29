@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","253","Verification with invalid IP","","Mon May 26 11:05:43 IST 2025","passed","Mon May 26 11:05:43 IST 2025","","IPStack API Tests (POM-based)","",""
+"","242","Verification with multiple IPs (negative test)","","Mon May 26 11:05:42 IST 2025","passed","Mon May 26 11:05:43 IST 2025","","IPStack API Tests (POM-based)","",""
+"","233","Verification with invalid access key","","Mon May 26 11:05:43 IST 2025","passed","Mon May 26 11:05:43 IST 2025","","IPStack API Tests (POM-based)","",""
+"","6748","Verification with valid IP and its response","","Mon May 26 11:05:36 IST 2025","passed","Mon May 26 11:05:42 IST 2025","","IPStack API Tests (POM-based)","",""
